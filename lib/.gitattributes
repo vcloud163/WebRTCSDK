@@ -1,0 +1,2 @@
+libLSMediaCapture.a filter=lfs diff=lfs merge=lfs -text
+LSMediaCapture.framework filter=lfs diff=lfs merge=lfs -text

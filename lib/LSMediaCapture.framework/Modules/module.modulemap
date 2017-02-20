@@ -1,0 +1,6 @@
+framework module LSMediaCapture {
+  umbrella header "LSMediaCapture.h"
+
+  export *
+  module * { export * }
+}
